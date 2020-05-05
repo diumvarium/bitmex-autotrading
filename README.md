@@ -1,2 +1,2 @@
 # bitmex-autotrading
-bitmex auto trading system
+bitmex auto trading system written in Python3
